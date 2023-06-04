@@ -15,6 +15,9 @@ root 7'dir. Root'un sağında 8, solunda 5 bulunur.
 
 3'ün sağında 4, solunda 2 bulunur.
 
+
+```
+
        7  
       / \
      5   8
@@ -25,4 +28,4 @@ root 7'dir. Root'un sağında 8, solunda 5 bulunur.
     / \
    2   4  
 
-
+```
